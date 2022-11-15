@@ -10,7 +10,7 @@ terraform {
 
 provider "azurerm" {
   # Configuration options
-  subscription_id = var.subscriptionID
-  tenant_id       = var.tenantID
+  //subscription_id = var.subscriptionID
+  //tenant_id       = var.tenantID
   features {}
 }

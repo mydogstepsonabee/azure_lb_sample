@@ -1,4 +1,4 @@
-variable "subscriptionID" {
+/*variable "subscriptionID" {
     type=string
     default = "<input_SubscriptionID>"
 }
@@ -7,13 +7,13 @@ variable "tenantID" {
     type=string
     default = "<input_TenantID>"
 }
-
+*/
 variable "username" {
     type=string
-    default = "<inputUserName>"
+    default = "hxue"
 }
 
 variable "vmPasswrd" {
     type=string
-    default = "<inputPassword>"
+    default = "test11TEST!!"
 }
